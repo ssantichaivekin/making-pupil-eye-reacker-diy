@@ -22,5 +22,10 @@ Let's start with the bill of materials:
 [6]: https://www.amazon.com/AmazonBasics-Extension-Cable-Male-Female/dp/B00NH11R3I
 [7]: https://www.bhphotovideo.com/c/product/102762-REG/LEE_Filters_87P3_3x3_Infra_Red_87.html
 
+The pictures of the materials is provided [here][mat].
+
+[mat]: https://github.com/ssantichaivekin/making-pupil-eye-reacker-diy/tree/master/materials
+
+
 
 
