@@ -28,9 +28,13 @@ The pictures of the materials is provided [here][mat].
 
 [mat]: https://github.com/ssantichaivekin/making-pupil-eye-reacker-diy/tree/master/materials
 
+## Decasing the webcams
+
 So I spent a whole day (March 11, my birthday) learning how to solder SMC circuits (by soldering a practice kit in the makerspace.) However, I still messed up the Microsoft HD-6000 webcam. The high-level reason is that I am not calm enough and I did not listen to the instruction carefully. I ended up seperating the two board in HD-6000 webcam from each other and I think it will be hard to just put it back together, so I'm ordering a new one.
 
 Microsoft HD-6000 webcam is very hard to take apart. The instruction is not even that clear on how I should get rid of the bottom part (stand) of the webcam. It's very messy.
+
+I did decase the other webcam (Logitech C615) sucessfully though.
 
 
 
