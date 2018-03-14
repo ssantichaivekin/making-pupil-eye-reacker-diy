@@ -1,6 +1,6 @@
 # We are making the pupil diy eye-tracker!
 
-Yayyyyyy! If I can't get an interview for the eye-tracking research, why don't I build an eye-tracker myself!!!? We are following [Pupil's DIY eye-tracker][1]. (This repo will include how to make the eye-tracker itself, and also the data I obtained from it.)
+Yayyyyyy! Since I can't get an interview for the eye-tracking research, why don't I build an eye-tracker myself!!!? I am following [Pupil's DIY eye-tracker][1] manual. (This repo will include how to make the eye-tracker itself, and also the data I finally obtain from it.)
 
 [1]: https://docs.pupil-labs.com/#diy
 
