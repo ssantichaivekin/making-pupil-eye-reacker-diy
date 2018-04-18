@@ -36,6 +36,8 @@ Microsoft HD-6000 webcam is very hard to take apart. The instruction is not even
 
 I did decase the other webcam (Logitech C615) sucessfully though.
 
+Okay, now I'm trying to decase the HD-6000 webcam again and I just noticed that the person got the two peices apart! WTF lol! So it seems that I seperated peices is okay? So I did not make a mistake last time I guess. Now, I will probably have to ask someone who might know how this work for more information.
+
 
 
 
