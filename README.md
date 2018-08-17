@@ -38,6 +38,8 @@ I did decase the other webcam (Logitech C615) sucessfully though.
 
 Okay, now I'm trying to decase the HD-6000 webcam again and I just noticed that the person got the two peices apart! WTF lol! So it seems that I seperated peices is okay? So I did not make a mistake last time I guess. Now, I will probably have to ask someone who might know how this work for more information.
 
+Update: I guess I failed to make an eye tracker. I might try again next year.
+
 
 
 
